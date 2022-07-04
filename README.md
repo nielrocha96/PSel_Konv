@@ -1,6 +1,6 @@
 # PSel_Konv
 
-Conforme solicitado, o código do arquivo encontra-se 'Konv Mini Pipeline.ipynb'. O banco de dados MySQL foi gerado e exportado como CSV ('companies_202207032220.csv').
+Conforme solicitado, o código do arquivo encontra-se 'Konv Mini Pipeline.ipynb'. O banco de dados MySQL foi gerado e exportado como 'companies.sql' ou, opcionalmente, como CSV ('companies_202207032220.csv').
 
 Sigo à disposição para esclarecimentos.
 
